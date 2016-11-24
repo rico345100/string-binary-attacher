@@ -1,0 +1,20 @@
+{
+  "name": "string-binary-attacher",
+  "version": "1.0.0",
+  "description": "string-binary-attacher is module for sending extra strings as binary with arraybuffer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rico345100/string-binary-attacher.git"
+  },
+  "keywords": [
+    "binary",
+    "arraybuffer",
+    "string"
+  ],
+  "author": ".modernator",
+  "license": "MIT"
+}
